@@ -1,5 +1,3 @@
-require "pry"
-
 require "exceptions"
 require "simple_auction"
 require "simple_guids"
